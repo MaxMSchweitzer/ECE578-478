@@ -1,0 +1,6 @@
+greenX 199
+greenY 149
+pinkX 217
+pinkY 97
+dot1X 0
+dot1Y 0

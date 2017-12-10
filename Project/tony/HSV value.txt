@@ -1,0 +1,46 @@
+pink trackbar (works, a little too close to red though)
+
+h_min = 118
+h_max = 255
+s_min = 125
+s_max = 255
+v_min = 228
+v_max = 255
+
+another pink (pastel)
+
+h_min = 119
+h_max = 221
+s_min = 59
+s_max = 119
+v_min = 118
+v_max = 234
+
+
+red trackbar (no more yellow)
+h_min = 0
+h_max = 4 (20/)
+s_min = 203 (155)
+s_max = 255
+v_min = 175 (50)
+v_max = 255 (200)
+
+green trackbar
+h_min = 23 (32)
+h_max = 52 (48)
+s_min = 100
+s_max = 255
+v_min = 50
+v_max = 200
+
+blue trackbar
+h_min = 0
+h_max = 255
+s_min = 223
+s_max = 255
+v_min = 200
+v_max = 255
+
+(0,0) appears to be the upper left corner
+x == 400 is left side of frame 
+y == 300 at bottom
